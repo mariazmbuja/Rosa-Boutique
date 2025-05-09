@@ -1,6 +1,16 @@
 body{
     background-color:deeppink;
     color:honeydew;
+    diplay: flex; 
+    justify-content: space-around;
+    padding: 240px 0;
+    font-size:30px;
+}
+
+.cabecalhoListaItem{
+ Display: inline-block
+ margin;  16px
+ Padding: 78px 0;
 
 
 }
