@@ -3,19 +3,19 @@
     padding:0;
 }
 
-body{
+.cabecalho{
     background-color:deeppink;
-    color:honeydew;
+    color:rgb(255, 240, 249);
     display: flex; 
     justify-content: space-around;
-    padding: 240px 0;
+    padding: 24px 0;
     font-size:30px;
 }
 
 .cabecalhoListaItem{
  Display: inline-block;
  margin: 16px;
- Padding: 78px 0;
+ Padding: 7px 0;
 
 
 }
@@ -25,8 +25,8 @@ body{
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#fd02aa,#fd0481);
+        color: rgb(255, 255, 255);
         display: flex;
         justify-content: center;
        align-items: center;
